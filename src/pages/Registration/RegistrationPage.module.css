@@ -1,0 +1,13 @@
+.register_form_holder{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin: auto;
+    margin-top: 120px;
+}
+
+.form_header{
+    font-size: 40px;
+    margin: auto;
+    margin-bottom: 20px;
+}

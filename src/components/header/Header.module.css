@@ -1,0 +1,11 @@
+.container_left{
+    margin-left: 10px;
+}
+
+.link_container{
+    margin-left: 20px;
+}
+
+.link_container a {
+    font-size: 18px;
+}
